@@ -36,7 +36,7 @@ You can view a live demo of the Product Landing Page [here](#http://127.0.0.1:55
   
 
 ## Getting Started
-To get a copy of this project up and running on your local machine, follow these simple steps.
+Get a copy of this project on your machine and run to access the project.
 
 
 
